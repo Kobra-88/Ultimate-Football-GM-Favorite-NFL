@@ -21,7 +21,7 @@
 {"city" : "Washington",       "mascot" : "Commanders",			"short" : "WAS", 	"homeText" : "FFB81C",	"homeMain" : "651C32",	"homeSecondary" : "FFB81C",	"awayText" : "651C32",	"awayMain" : "FFFFFF",  "awaySecondary" : "651C32"},
 {"city" : "Chicago", 		"mascot" : "Bears",		"short" : "CHI", 	"homeText" : "DC4405",	"homeMain" : "091F2C",	"homeSecondary" : "DC4405",	"awayText" : "DC4405",	"awayMain" : "FFFFFF",  "awaySecondary" : "091F2C"},
 {"city" : "Detroit",    	"mascot" : "Lions",		"short" : "DET", 	"homeText" : "FFFFFF",	"homeMain" : "0069B1",	"homeSecondary" : "A2AAAD",	"awayText" : "0069B1",	"awayMain" : "FFFFFF",  "awaySecondary" : "0069B1"},
-{"city" : "Green Bay",		"mascot" : "Packers",			"short" : "GB", 	"homeText" : "FFB81C",	"homeMain" : "285C4D",	"homeSecondary" : "FFB81C",	"awayText" : "FFB81C",	"awayMain" : "FFFFFF",  "awaySecondary" : "285C4D"},
+{"city" : "Green Bay",		"mascot" : "Packers",			"short" : "GB", 	"homeText" : "FFCD00",	"homeMain" : "284734",	"homeSecondary" : "FFCD00",	"awayText" : "FFCD00",	"awayMain" : "FFFFFF",  "awaySecondary" : "284734"},
 {"city" : "Minnesota",		"mascot" : "Vikings",	  		"short" : "MIN", 	"homeText" : "FFFFFF",	"homeMain" : "582C83",	"homeSecondary" : "FFB81C",	"awayText" : "582C83",	"awayMain" : "FFFFFF",  "awaySecondary" : "582C83"},
 {"city" : "Atlanta",      "mascot" : "Falcons",	"short" : "ATL", 	"homeText" : "FFFFFF",	"homeMain" : "010101",	"homeSecondary" : "A6192E",	"awayText" : "A6192E",	"awayMain" : "FFFFFF",  "awaySecondary" : "010101"},
 {"city" : "Carolina",     	"mascot" : "Panthers",	  		"short" : "CAR", 	"homeText" : "0085CA",	"homeMain" : "101820",	"homeSecondary" : "0058CA",	"awayText" : "0058CA",	"awayMain" : "FFFFFF",  "awaySecondary" : "101820"},
